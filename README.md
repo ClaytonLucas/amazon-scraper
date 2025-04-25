@@ -24,15 +24,14 @@ Aplicação fullstack para buscar produtos da Amazon com base em uma palavra-cha
 
 ### 1. Clone o repositório
 
-git clone https://github.com/ClaytonLucas/amazon-scraper.git
-
-cd amazon-scraper 
+- git clone https://github.com/ClaytonLucas/amazon-scraper.git
+- cd amazon-scraper 
 
 ### 2. Configure e inicie o backend
 
-cd backend
-npm install
-node server.js
+- cd backend
+- npm install
+- node server.js
 
 O servidor será iniciado em:
 📍 http://localhost:3000
